@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/calculadora/static/css/main.073c9b0a.css",
-    "main.js": "/calculadora/static/js/main.274deadc.js",
+    "main.css": "/calculadora/static/css/main.48cff859.css",
+    "main.js": "/calculadora/static/js/main.a5d0ed8e.js",
     "static/js/787.a0d8d0d4.chunk.js": "/calculadora/static/js/787.a0d8d0d4.chunk.js",
-    "static/media/logo.svg": "/calculadora/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/circuito1.png": "/calculadora/static/media/circuito1.3d5b414a2d4c5c5ce205.png",
+    "static/media/ciruito2.png": "/calculadora/static/media/ciruito2.664eeb9d43ad464a7173.png",
     "index.html": "/calculadora/index.html",
-    "main.073c9b0a.css.map": "/calculadora/static/css/main.073c9b0a.css.map",
-    "main.274deadc.js.map": "/calculadora/static/js/main.274deadc.js.map",
+    "main.48cff859.css.map": "/calculadora/static/css/main.48cff859.css.map",
+    "main.a5d0ed8e.js.map": "/calculadora/static/js/main.a5d0ed8e.js.map",
     "787.a0d8d0d4.chunk.js.map": "/calculadora/static/js/787.a0d8d0d4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.274deadc.js"
+    "static/css/main.48cff859.css",
+    "static/js/main.a5d0ed8e.js"
   ]
 }
